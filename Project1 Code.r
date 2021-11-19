@@ -1,5 +1,4 @@
-#AMS315 Computing Project1
-#Soyoung Chung(110646738)
+#Soyoung Chung(soyoungchung625@gmail.com)
 
 # PartA
 getwd()
